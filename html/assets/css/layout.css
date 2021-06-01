@@ -1,0 +1,96 @@
+
+
+@media only screen and (min-width: 1600px) and (max-width: 1919px) {
+    .wrapper{max-width: 1000px;}
+    h1 {font-size: 30px;}
+}
+@media only screen and (min-width: 1366px) and (max-width: 1599px) {
+   .wrapper{max-width: 1000px;}
+}
+
+
+@media only screen and (min-width: 1200px)and (max-width: 1365px) {
+    .wrapper{max-width: 1000px;}
+     
+    .content-wrap ul li:nth-child(2) .text-content h2{left: -35px;}
+    .content-wrap ul li:nth-child(4) {margin: 0;}
+    .content-wrap ul li:nth-child(3) {padding: 30px 0 0;}
+    .content-wrap ul li:nth-child(2) {margin: -18px 0 0;}
+     .content-wrap ul li:nth-child(4) .text-content h2{left: -170px;}
+    .content-wrap ul li:nth-child(3) .text-content h2{right: -142px;}
+     .header-container{padding: 52px 0 30px;}
+}
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+   .wrapper{max-width: 900px;}
+    .logo img {width: 115px;}
+    .content-wrap ul li:nth-child(2) .text-content h2{left: -35px;}
+    .content-wrap ul li:nth-child(4) {margin: 0;}
+    .content-wrap ul li:nth-child(3) {padding: 30px 0 0;}
+    .content-wrap ul li:nth-child(2) {margin: -18px 0 0;}
+     .content-wrap ul li:nth-child(4) .text-content h2{left: -170px;}
+    .content-wrap ul li:nth-child(3) .text-content h2{right: -142px;}
+     .header-container{padding: 52px 0 30px;}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+   .wrapper{max-width: 740px;}
+     .logo img {width: 115px;}
+    .header-container{padding: 40px 0 20px;}
+    .image-content img{width: 180px;}
+    .content-wrap ul li:nth-child(2) {margin: 0;}
+    .content-wrap ul li:nth-child(3){padding: 29px 0 0;}
+    .content-wrap ul li:nth-child(4) .text-content h2{left: -180px;}
+    .content-wrap ul li:nth-child(3) .text-content h2{right: -122px;}
+    .content-wrap ul li:nth-child(2) .text-content{padding: 39px 0 0;}
+    .content-wrap ul li:nth-child(2) .text-content h2{padding-bottom: 7px;}
+    .content-main-block{padding: 0 0 0;}
+    .title-div::before{top: 22px;width: 349px;height: 40px;}
+    
+}
+@media only screen and (max-width: 767px) {
+    .wrapper{max-width: 100%;padding: 0 15px;}
+     h1{font-size: 2rem !important;}
+    h2{font-size: 2.2rem  !important;}
+    .content-main-block h1 span{ font-size: 2.5rem !important;margin: 0 10px;}   
+    p{font-size: 0.9375rem !important;}
+    
+    .content-wrap ul li:nth-child(2) .text-content h2{left: -35px;}
+    .content-wrap ul li:nth-child(4) {margin: 0;}
+    .content-wrap ul li:nth-child(3) {padding: 30px 0 0;}
+    .content-wrap ul li:nth-child(2) {margin: -18px 0 0;}
+    
+    .single-row{-webkit-flex-direction: column;-ms-flex-direction: column;flex-direction: column;}
+    .text-content{width: 100%;order: 2;text-align: center;padding: 24px 0 0;}
+    .image-content{width: 100%;order: 1;text-align: center;}
+    .image-content img{width: 210px;}
+    .text-content p {padding: 0;}
+    .content-wrap ul li:nth-child(2) .text-content{width: 100%;padding: 40px 0 0;text-align: center;}
+    .content-wrap ul li:nth-child(2) .image-content {width: 100%;}
+    .content-wrap ul li:nth-child(2) .text-content h2{left: 0;padding-bottom: 8px;}
+    .content-wrap ul li:nth-child(2) .text-content p {padding: 0;}
+    .content-wrap ul li:nth-child(2) {margin: 0;}
+    
+    .content-wrap ul li:nth-child(3) .text-content h2{right: 0;padding-bottom: 8px;}
+    .content-wrap ul li:nth-child(3) .text-content p {padding: 0;}
+    .content-wrap ul li:nth-child(4) .text-content h2{left: 0;}
+    .content-wrap ul li:nth-child(4) .text-content p {padding: 0;}
+    .content-wrap ul li:nth-child(4) {margin: 0;}
+    .content-container{padding: 30px 0 20px;}
+    .content-wrap ul li:nth-child(3) {padding: 0;}
+    .title-div::before{width: 279px;top: 10px;height: 41px;}
+    .header-container{padding: 32px 0 10px;}
+    .logo img {width: 135px;}
+    .content-wrap ul li:nth-child(3) .image-content {margin: 20px 0;}
+    .content-wrap ul li:nth-child(4) .image-content {margin: 20px 0;}
+}
+
+@media only screen and (max-width: 500px) {
+    
+    .logo img {width: 100px;}
+    .content-container{padding: 20px 0 10px;}
+    .title-div::before{width: 210px;top: 0px;}
+    .text-content, #text-div3, .headline {text-align: left;}
+    }
+} 
