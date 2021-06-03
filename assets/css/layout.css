@@ -120,7 +120,7 @@
 }
 
 @media only screen and (max-width: 479px) {
-    
+    .wrapper {width: 100%;}
     .logo img {width: 100px;}
     .content-container{padding: 20px 0 10px;}
     .title-div:before{top: 18px;width: 200px;height: 25px;}
