@@ -51,7 +51,7 @@
     .content-wrap ul li:nth-child(2) .text-content{width: 75%;padding: 48px 0 0;}
     .content-wrap ul li:nth-child(2) .image-content {width: 25%;}
     .content-main-block{padding: 0 0 0;}
-    .title-div:before{top: 35px;width: 350px;height: 40px;}
+    .title-div:before{top: 25px;width: 300px;height: 40px;}
     .content-container{padding: 25px 0 75px;}
     .text-content{width: 75%;}
     .image-content{width: 25%;}
@@ -74,7 +74,7 @@
     .content-wrap ul li:nth-child(2) .text-content{padding: 39px 0 0;}
     .content-wrap ul li:nth-child(2) .text-content h2{padding-bottom: 7px;left: -38px;}
     .content-main-block{padding: 0 0 0;}
-    .title-div:before{top: 35px;width: 350px;height: 40px;}
+    .title-div:before{top: 18px;width: 200px;height: 25px;}
     .image-content img {width: 200px;}
     .content-wrap ul li:nth-child(2) .text-content p {padding: 0 67px 0 5px;}
     .content-container{padding: 25px 0 55px;}
