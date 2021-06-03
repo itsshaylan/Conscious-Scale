@@ -8,7 +8,7 @@
     .content-wrap ul li:nth-child(2) .text-content{width: 76%;padding: 62px 0 0;}
     .content-wrap ul li:nth-child(2) .image-content {width: 24%;}
     .content-main-block{padding: 0 0 0;}
-    .title-div:before{top: 30px;width: 320px;height: 35px;}
+    .title-div:before{top: 28px;width: 320px;height: 35px;}
     .content-container{padding: 25px 0 75px;}
     .text-content{width: 76%;}
     .image-content{width: 24%;}
@@ -29,7 +29,7 @@
      .content-wrap ul li:nth-child(2) .text-content{width: 76%;padding: 62px 0 0;}
     .content-wrap ul li:nth-child(2) .image-content {width: 24%;}
     .content-main-block{padding: 0 0 0;}
-    .title-div::before{top: 30px;width: 320px;height: 35px;}
+    .title-div::before{top: 28px;width: 320px;height: 35px;}
     .content-container{padding: 25px 0 75px;}
     .text-content{width: 76%;}
     .image-content{width: 24%;}
