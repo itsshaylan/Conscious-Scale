@@ -193,11 +193,11 @@ strong{
     position: absolute;
     content: "";
     left: 0;
-    top: 20px;
+    top: 25px;
     margin: 0 auto;
     right: 0;
     background: url('../images/title-pattern.png') no-repeat;
-    width: 419px;
+    width: 400px;
     height: 61px;
     background-size: 100% 100%;
 }
